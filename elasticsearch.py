@@ -11,8 +11,8 @@ def get_ids_from_es(domain, query):
         for hit in response.get('hits', {}).get('hits', []):
             freebase_label = hit.get('_source', {}).get('label')
             freebase_id = hit.get('_source', {}).get('resource')
-            score = hit.get('score')
-            results.add((freebase_id, freebase_label, score))
+            score = hit.get('_score')
+            results.append((query, freebase_id, freebase_label, score))
     return results
     
 if __name__ == '__main__':
@@ -23,9 +23,9 @@ if __name__ == '__main__':
         print('Usage: python elasticsearch.py DOMAIN')
         sys.exit(0)
 
-    with open('entities.txt') as f:
+    with open('entries.txt') as f:
         with open('labels.txt', 'w') as out:
             for query in f:
                 results = get_ids_from_es(DOMAIN, query.strip())
-                for id, label, score in results:
-                    out.write(str(id) + " " + str(label) + " " + str(score) + "\n")
+                for query, id, label, score in results:
+                    out.write(str(query) + ": " + str(id) + " " + str(label) + " " + str(score) + "\n")
