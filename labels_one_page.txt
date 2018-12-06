@@ -1,0 +1,1202 @@
+WARC-Trec-ID: clueweb12-0000tw-00-00000
+ES-Response-For-Entry: rss
+fbase:m.0pjbq RSS 5.7502155
+fbase:m.019rl6 RSS 5.7502155
+fbase:m.07km50 RSS 5.7502155
+fbase:m.02_cmg RSS 5.7502155
+fbase:m.04whzc RSS 5.7502155
+fbase:m.03gtx71 RSS 5.7502155
+fbase:m.0n5tx RSS 2 5.7502155
+fbase:m.075x5v RSS Reader 5.7502155
+fbase:m.0ktl RSS 5.7502155
+fbase:m.0f2vj RSS 5.7502155
+ES-Response-For-Entry: atom
+fbase:m.07kfgxx Mighty Atom 5.582772
+fbase:m.0cxvdb ATOM 5.582772
+fbase:m.0f4zxs8 Atom Bomb 5.582772
+fbase:m.0czcflp Basic Atom 5.582772
+fbase:m.02jvpb ATOM XML 5.582772
+fbase:m.03cp31j Atom N450 5.582772
+fbase:m.02jvpb Atom RSS 5.582772
+fbase:m.02jvpb Atom 5.582772
+fbase:m.05gpf Atom Bomb 5.582772
+fbase:m.097w2y Ariel Atom 5.582772
+ES-Response-For-Entry: rdf
+fbase:m.06l3yl RDF USA 6.035001
+fbase:m.0j6v7 RDF 6.035001
+fbase:m.09z2hl8 RDF schema 6.035001
+fbase:m.01kv_h RDF 6.035001
+fbase:m.069nsnf RDF 6.035001
+fbase:m.04kgvr1 RDF 6.035001
+fbase:m.03nw1c RDF 6.035001
+fbase:m.0ktl RDF 6.035001
+fbase:m.05kxmf RDF 6.035001
+fbase:m.056_gw RDF 6.035001
+ES-Response-For-Entry: Photos
+fbase:m.026qd9r Magnum Photos 6.300315
+fbase:m.068jd PHOTOS 6.300315
+fbase:m.06vtbs9 Passport Photos 6.300315
+fbase:m.01szqd MAGNUM PHOTOS 6.300315
+fbase:m.09tzfp Photos 6.300315
+fbase:m.068jd PhoTOS 6.300315
+fbase:m.068jd pHOTos 6.300315
+fbase:m.03mjyc Photos 6.300315
+fbase:m.068jd Photos 6.2084107
+fbase:m.068jd pHOtos 6.2084107
+ES-Response-For-Entry: aggregator
+fbase:m.0cc7pk3 AGGREGATOR 7.1050324
+fbase:m.075x5v Rss Aggregator 6.9023013
+fbase:m.075x5v Feed Aggregator 6.9023013
+fbase:m.075x5v RSS Aggregator 6.7577167
+fbase:m.075x5v AGGREGATOR 6.7577167
+fbase:m.075x5v RSS aggregator 6.7577167
+fbase:m.075x5v News Aggregator 6.757551
+fbase:m.075x5v Aggregator 6.757551
+fbase:m.075x5v AggreGator 6.757551
+ES-Response-For-Entry: dynamic
+fbase:m.04w82cb Dynamic Symmetry 5.312365
+fbase:m.05bk_8 Dynamic Publishing 5.312365
+fbase:m.079z25 Dynamic Imaging 5.312365
+fbase:m.04y8734 Dynamic Infrastructure 5.312365
+fbase:m.0ch5cm_ Dynamic CSS 5.312365
+fbase:m.03gs2y Dynamic Binding 5.312365
+fbase:m.01n59st Dynamic Meditation 5.312365
+fbase:m.02qgbq1 Dynamic Capabilities 5.312365
+fbase:m.0dl_l8 Dynamic Stall 5.312365
+fbase:m.0gg9q6g Dynamic 5.312365
+ES-Response-For-Entry: content
+fbase:m.025tt8q CONTENT-TYPE 5.3872476
+fbase:m.02ds2h Content Analytics 5.3872476
+fbase:m.094h48 Structured Content 5.3872476
+fbase:m.02x059b Content Assist 5.3872476
+fbase:m.09x2bt Marjorie Content 5.3872476
+fbase:m.0cmf35c Content Mill 5.3872476
+fbase:m.016s1y Mature Content 5.3872476
+fbase:m.02x3zp_ Content 5.3872476
+fbase:m.01gkjf Content Management 5.3872476
+fbase:m.03qj473 Content Marketing 5.3872476
+ES-Response-For-Entry: Search
+fbase:m.06dhr1 Search Cloud 4.6628895
+fbase:m.0387r Search Engine 4.6628895
+fbase:m.012qqx Search Warrants 4.6628895
+fbase:m.05mvrqq Search Reports 4.6628895
+fbase:m.026v5z0 SeARCH 4.6628895
+fbase:m.02r4m3 STAR SEARCH 4.6628895
+fbase:m.0c7mlx Cavity Search 4.6628895
+fbase:m.083br0 JOB SEARCH 4.6628895
+fbase:m.021q7n Tabu search 4.6628895
+fbase:m.0275d_x Star Search 4.6628895
+ES-Response-For-Entry: Add
+fbase:m.0h99n ADD /ADHD 5.8625803
+fbase:m.0dwx7 ADD 5.8625803
+fbase:m.01m53g ADD 5.8625803
+fbase:m.0h99n Add 5.8625803
+fbase:m.02l02ks Add 5.8625803
+fbase:m.025szdt AdD 5.8625803
+fbase:m.01khrx ADD 5.8625803
+fbase:m.0dkl3h ADD Coaching 5.8625803
+fbase:m.05tjrb ADD 5.8625803
+fbase:m.01d65r ADD 5.8625803
+ES-Response-For-Entry: album
+fbase:m.03vsc3 Auschwitz Album 4.9488416
+fbase:m.027yzp Mitch Album 4.9488416
+fbase:m.0dz3r Album Producer 4.9488416
+fbase:m.067408 ALBUM COVER 4.9488416
+fbase:m.06z_tz Photograph Album 4.9488416
+fbase:m.02lx2r Album Chart 4.9488416
+fbase:m.02lx2r Album 4.9488416
+fbase:m.0c4tmv Black Album 4.9488416
+fbase:m.01hc1jq Black Album 4.9488416
+fbase:m.01hg4bh White album 4.9488416
+ES-Response-For-Entry: Contact
+fbase:m.08fgwk CONTACT Sport 5.3336453
+fbase:m.0291f3 Contact Book 5.3336453
+fbase:m.02z3gd Physical Contact 5.3336453
+fbase:m.0n74ws Contact 5.3336453
+fbase:m.03q7zv Contact patch 5.3336453
+fbase:m.0p0fgx CONTACT 5.3336453
+fbase:m.0fjrb24 Contact 5.3336453
+fbase:m.0crp1q Contact 5.3336453
+fbase:m.0jyfz Contact lens 5.3336453
+fbase:m.0gys3zy Contact Management 5.3336453
+ES-Response-For-Entry: us
+fbase:m.05w_b6 Help Us/Save Us/Take Us Away 4.234988
+fbase:m.02q06f5 Nothing About Us Without Us 4.1722345
+fbase:m.01k_hdc Us and Us Only 4.1462
+fbase:m.0cb0qz US Senate 3.9336207
+fbase:m.0289wt8 US 3.9336207
+fbase:m.01brf7 US Highway 3.9336207
+fbase:m.07vsl US State 3.9336207
+fbase:m.02sr9_ US 3.9336207
+fbase:m.01w885 US Army 3.9336207
+fbase:m.0n5vrgt US 23 3.9336207
+ES-Response-For-Entry: News
+fbase:m.017b3j NBC News News 4.991173
+fbase:m.0wgln4 The News Behind the News 4.303036
+fbase:m.05fc9dt Deseret News Church News 4.303036
+fbase:m.01d47j8 No News Is Good News 4.278719
+fbase:m.0406fzd TV3 News 4.057456
+fbase:m.043655 SCIENCE NEWS 4.057456
+fbase:m.07kv31 CBS News 4.057456
+fbase:m.03_7nc NEWS & OBSERVER 4.057456
+fbase:m.06b75n News 4.057456
+fbase:m.03j194 News 4.057456
+ES-Response-For-Entry: Reviews
+fbase:m.0555wq Reviews 5.861788
+fbase:m.05msfwd Physiological Reviews 5.861788
+fbase:m.042983 Book Reviews 5.861788
+fbase:m.0555wq Mathematical Reviews 5.861788
+fbase:m.060dl Peer Reviews 5.861788
+fbase:m.030p6t6 Reviews 5.861788
+fbase:m.0d3j7t ForeWord Reviews 5.861788
+fbase:m.09gcsvt Pharmacological Reviews 5.861788
+fbase:m.060dl PEER REVIEWS 5.861788
+fbase:m.0gdwd0 Reviews 5.861788
+ES-Response-For-Entry: shaggyshoo
+ES-Response-For-Entry: has
+fbase:m.042s3d HAS-160 5.4389315
+fbase:m.034ldn HAS 5.3418527
+fbase:m.01ngzf Has-A 5.2596855
+fbase:m.061d5z Wojciech Has 5.2596855
+fbase:m.0540pj HAS 5.2596855
+fbase:m.08zg_v HAS 5.2596855
+fbase:m.034ldn hAs 5.2596855
+fbase:m.01ngzf HAS-A 5.2354555
+fbase:m.0273yg Has Ralph 5.2354555
+fbase:m.034ldn Has 5.2354555
+ES-Response-For-Entry: added
+fbase:m.03_tfq Value Added 6.4777436
+fbase:m.03_tfq Added Cost 6.4118867
+fbase:m.01fsjp Value-Added 6.2519164
+fbase:m.03_tfq Value-Added 6.2518673
+fbase:m.08gvs1 Added Value 6.2518673
+fbase:m.0fsv5y Added Tim 6.2518673
+fbase:m.075jp Milosevic Added 6.209153
+fbase:m.0f34jw_ Added Planet 6.209153
+fbase:m.078kh4 Value-Added Service 5.6680255
+fbase:m.078kh4 Value Added Service 5.6680255
+ES-Response-For-Entry: a
+fbase:m.033h3k A∴A 4.2270865
+fbase:m.01dqym A&A 4.2270865
+fbase:m.033h3k A∴A∴ 4.2270865
+fbase:m.07df1 A&A 4.2270865
+fbase:m.04jhpff A-A 4.2270865
+fbase:m.0z07 A. A 4.2270865
+fbase:m.04zsgz A = A 4.2266407
+fbase:m.08t1jt A. A 4.2266407
+fbase:m.04zsgz A=A 4.2244744
+fbase:m.033h3k A∴ A∴ 4.2244744
+ES-Response-For-Entry: photo
+fbase:m.02qbl1m PHOTO SHOOT 5.4205933
+fbase:m.027bcpb Photo-Secession 5.4205933
+fbase:m.07cdyb PHOTO FINISH 5.4205933
+fbase:m.0dt53dr Nude Photo 5.4205933
+fbase:m.02cywx Photo Realism 5.4205933
+fbase:m.0b0fq Photo Collage 5.4205933
+fbase:m.070h6l PHOTO CD 5.4205933
+fbase:m.0fxzvp Photo Collection 5.4205933
+fbase:m.046h3d IPod Photo 5.4205933
+fbase:m.036jvk Photo Library 5.4205933
+ES-Response-For-Entry: to
+fbase:m.01gdxx To Be and To Have 3.6064167
+fbase:m.06kwhs To Live Is to Die 3.6064167
+fbase:m.06nr54z Someone To Crawl back To 3.6064167
+fbase:m.060r78 Tinker to Evers to Chance 3.592784
+fbase:m.0lffkb Tryin' To Get To Heaven 3.592784
+fbase:m.04yc195 Tryin' to Get to You 3.592784
+fbase:m.06kwhs To Live Is To Die 3.592784
+fbase:m.0x8kcb Tryin' To Get To You 3.592784
+fbase:m.049sgxj Love to Make Music To 3.592784
+fbase:m.03c93v5 Tryin' To Get To Heaven 3.5902638
+ES-Response-For-Entry: the
+fbase:m.01512j The The 3.0839372
+fbase:m.011_vg The The 3.0839372
+fbase:m.01512j The THE 3.0788364
+fbase:m.01hv1v4 The The 3.0788364
+fbase:m.03fzf4w The Hair the TV the Baby & the Band 2.7186253
+fbase:m.023g2g2 The The Empty 2.6913018
+fbase:m.09vtmpk The Lord of the Rings: The Return of the King: The Complete Recordings 2.4381185
+fbase:m.01ljcq1 The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings 2.4380665
+fbase:m.0dm30l The Third: The Girl With the Blue Eye 2.360698
+fbase:m.0cp0pjm Batman: The Brave and the Bold the Videogame 2.360698
+ES-Response-For-Entry: pool
+fbase:m.0gg5gg9 Sultan's Pool 5.1097984
+fbase:m.07cx18 POOL FROG 5.1097984
+fbase:m.04m_qqf Midnight Pool 5.1097984
+fbase:m.08gh3c Fleishhacker Pool 5.1097984
+fbase:m.047p7xx Wheat Pool 5.1097984
+fbase:m.02mfxy Pool Heating 5.1097984
+fbase:m.0bcpc2 Pool Element 5.1097984
+fbase:m.0f8z3_ Lea Pool 5.1097984
+fbase:m.0gjmpg Pool 5.1097984
+fbase:m.07db925 Mike Pool 5.1097984
+ES-Response-For-Entry: annecy
+fbase:m.0282xrl Annecy 6.9023004
+fbase:m.0fck2k Annecy festival 6.554984
+fbase:m.02jsr9 Annecy 6.554819
+fbase:m.02qdyj Ubisoft Annecy 6.554819
+fbase:m.06n555y Annecy 6.554819
+fbase:m.01qb00 Annecy Lake 6.478652
+fbase:m.01qb00 Annecy 6.478652
+fbase:m.0fck2k Annecy Festival 6.478652
+fbase:m.0fck2k Annecy 6.478652
+fbase:m.01qb00 Annecy lake 6.478652
+ES-Response-For-Entry: france
+fbase:m.02j81m France 4.772405
+fbase:m.0gtwjs1 David France 4.772405
+fbase:m.0ckgrh Meteo France 4.772405
+fbase:m.04jf304 La France 4.772405
+fbase:m.0d2hcz France 4.772405
+fbase:m.06tb_yf France 4.772405
+fbase:m.0bbg2jp France 4.772405
+fbase:m.053xz3 SS FRANCE 4.772405
+fbase:m.02pvghn France Miniature 4.772405
+fbase:m.01h3dj FRANCE 4.772405
+ES-Response-For-Entry: France
+fbase:m.02j81m France 4.772405
+fbase:m.0gtwjs1 David France 4.772405
+fbase:m.0ckgrh Meteo France 4.772405
+fbase:m.04jf304 La France 4.772405
+fbase:m.0d2hcz France 4.772405
+fbase:m.06tb_yf France 4.772405
+fbase:m.0bbg2jp France 4.772405
+fbase:m.053xz3 SS FRANCE 4.772405
+fbase:m.02pvghn France Miniature 4.772405
+fbase:m.01h3dj FRANCE 4.772405
+ES-Response-For-Entry: image
+fbase:m.0l7y_ DVD Image 4.9555984
+fbase:m.012h7d Tiff Image 4.9555984
+fbase:m.0b09d3 Image J 4.9555984
+fbase:m.02m6l7 Single Image 4.9555984
+fbase:m.04n7vs Image Masking 4.9555984
+fbase:m.08dw7z Resize Image 4.9555984
+fbase:m.025s24v Image Dissector 4.9555984
+fbase:m.01rkpx9 Blues Image 4.9555984
+fbase:m.02cj0n BODY IMAGE 4.9555984
+fbase:m.03c3s2d Bitmap Image 4.9555984
+ES-Response-For-Entry: Pool
+fbase:m.0gg5gg9 Sultan's Pool 5.1097984
+fbase:m.07cx18 POOL FROG 5.1097984
+fbase:m.04m_qqf Midnight Pool 5.1097984
+fbase:m.08gh3c Fleishhacker Pool 5.1097984
+fbase:m.047p7xx Wheat Pool 5.1097984
+fbase:m.02mfxy Pool Heating 5.1097984
+fbase:m.0bcpc2 Pool Element 5.1097984
+fbase:m.0f8z3_ Lea Pool 5.1097984
+fbase:m.0gjmpg Pool 5.1097984
+fbase:m.07db925 Mike Pool 5.1097984
+ES-Response-For-Entry: 2012
+fbase:m.0g9z6rs Magic 2012 5.2988315
+fbase:m.0gl000h Romney 2012 5.2988315
+fbase:m.0d9hk FOODEX 2012 5.2988315
+fbase:m.05h3t81 2012 Doomsday 5.2988315
+fbase:m.04zzkkz 2012 Edition 5.2988315
+fbase:m.0gk_h41 OBAMA 2012 5.2988315
+fbase:m.0hrf2pb Ringo 2012 5.2988315
+fbase:m.01p15w CES 2012 5.2988315
+fbase:m.02xlx FY 2012 5.2988315
+fbase:m.0bbxbrk F1 2012 5.2988315
+ES-Response-For-Entry: 02
+fbase:m.091z0f OH-02 6.478652
+fbase:m.07n29n WV-02 6.478652
+fbase:m.05fjy NM-02 6.478652
+fbase:m.0dnvhm MN-02 6.478652
+fbase:m.0dnv15 MN-02 6.2995224
+fbase:m.0bg7m5 AL-02 6.2995224
+fbase:m.0gj4fx NH-02 6.2995224
+fbase:m.09xxcq LA-02 6.2995224
+fbase:m.02vkprq 02 Dome 6.2995224
+fbase:m.091z0f Oh-02 6.2995224
+ES-Response-For-Entry: 10
+fbase:m.013c1m Douglas DC-10-10 5.039851
+fbase:m.0j29ry8 VC-10 4.8041625
+fbase:m.027fqg9 IP-10 4.8041625
+fbase:m.02pd1tf Pac 10 4.8041625
+fbase:m.05cfdb Rochefort 10 4.8041625
+fbase:m.080gf52 CJ-10 4.8041625
+fbase:m.04r2hh Jian-10 4.8041625
+fbase:m.0c9rtf Pac-10 4.8041625
+fbase:m.0cx2h2 GR 10 4.8041625
+fbase:m.019tpf KV-10 4.8041625
+ES-Response-For-Entry: 16
+fbase:m.03wg09_ Route 16 5.212939
+fbase:m.06xy1t NA-16 5.212939
+fbase:m.0h1kyy APCO-16 5.212939
+fbase:m.069kmm 16 Gauge 5.212939
+fbase:m.04yqcc SA-16 5.212939
+fbase:m.017_nw I-16 5.212939
+fbase:m.0gnj39 VA 16 5.212939
+fbase:m.06f61_ SS-16 5.212939
+fbase:m.022pr3 Venera 16 5.212939
+fbase:m.0cpbh7 Soundblaster 16 5.212939
+ES-Response-For-Entry: 22
+fbase:m.06k686 TX-22 5.475242
+fbase:m.099htq Chromosome 22 5.475242
+fbase:m.027s8mk MP4-22 5.475242
+fbase:m.02hlhy Camp 22 5.475242
+fbase:m.03why10 Arch 22 5.475242
+fbase:m.0178g V-22 5.475242
+fbase:m.02cy4m Type 22 5.475242
+fbase:m.0fd_f Catch-22 5.475242
+fbase:m.0bmkhqr Psalm 22 5.475242
+fbase:m.06y2mh HCFC-22 5.475242
+ES-Response-For-Entry: 52
+fbase:m.0d2gjb OKB-52 5.9284377
+fbase:m.01rf2j VIA 52 5.9284377
+fbase:m.02h_k3 STS-52 5.9284377
+fbase:m.03hlmdd Highway 52 5.9284377
+fbase:m.09c7w0 US 52 5.9284377
+fbase:m.08zh1x Lot 52 5.9284377
+fbase:m.02jwvm US 52 5.9284377
+fbase:m.02knn1 Class 52 5.9284377
+fbase:m.041cfh Vz 52 5.9284377
+fbase:m.0g0mvd BB-52 5.9284377
+ES-Response-For-Entry: February
+fbase:m.02xx5 FEBRUARY 6.6468883
+fbase:m.01f73sl February Stars 6.6468883
+fbase:m.02vw4 February SOI 6.6468883
+fbase:m.0bv8zvn FEBRUARY 6.6468883
+fbase:m.0b2xwf February Strike 6.554935
+fbase:m.03_t_4 Share February 6.554935
+fbase:m.0ffnmgv February Song 6.554935
+fbase:m.0czdf7j February VSP 6.2519164
+fbase:m.01ky51t February Son 6.2519164
+fbase:m.0f1pmq9 February Song 6.2519164
+ES-Response-For-Entry: 10th
+fbase:m.04zlwrp 10th Avenue 6.005678
+fbase:m.028xfp 10th Armored 6.005678
+fbase:m.02yk19 10TH Anniversary 6.005678
+fbase:m.0kv4ld 10TH VICTIM 6.005678
+fbase:m.07z1m 10th State 6.005678
+fbase:m.0bqmk7 10th Marines 6.005678
+fbase:m.05wtwv 10TH AVENUE 6.005678
+fbase:m.05wtwv 10TH Avenue 6.005678
+fbase:m.0pcdzqz 10TH ANNIVERSARY 6.005678
+fbase:m.07slc 10th Amendment 5.9284377
+ES-Response-For-Entry: 2012
+fbase:m.0g9z6rs Magic 2012 5.2988315
+fbase:m.0gl000h Romney 2012 5.2988315
+fbase:m.0d9hk FOODEX 2012 5.2988315
+fbase:m.05h3t81 2012 Doomsday 5.2988315
+fbase:m.04zzkkz 2012 Edition 5.2988315
+fbase:m.0gk_h41 OBAMA 2012 5.2988315
+fbase:m.0hrf2pb Ringo 2012 5.2988315
+fbase:m.01p15w CES 2012 5.2988315
+fbase:m.02xlx FY 2012 5.2988315
+fbase:m.0bbxbrk F1 2012 5.2988315
+ES-Response-For-Entry: Tags
+fbase:m.0553b Tags 6.251751
+fbase:m.0sw0q Tags 6.251751
+fbase:m.0553b META Tags 6.251751
+fbase:m.0553b Meta tags 6.251751
+fbase:m.0553b META TAGs 6.251751
+fbase:m.08zn3w Div tags 6.251751
+fbase:m.01p484 HTML tags 6.251751
+fbase:m.0d2_77 White Tags 6.251751
+fbase:m.09jcvs TAGS 6.251751
+fbase:m.01skqzw Marines Tags 6.251751
+ES-Response-For-Entry: cloud
+fbase:m.05lvs Ort Cloud 4.977227
+fbase:m.01c76t Ash Cloud 4.977227
+fbase:m.0gsd0j Saint Cloud 4.977227
+fbase:m.0gyrxh4 The Cloud 4.977227
+fbase:m.06jbqr Kevin Cloud 4.977227
+fbase:m.09g921x Cloud API 4.977227
+fbase:m.040484b SILVER CLOUD 4.977227
+fbase:m.01js4fh Organic Cloud 4.977227
+fbase:m.02y_9m3 Cloud-Based 4.977227
+fbase:m.06dhr1 Data Cloud 4.977227
+ES-Response-For-Entry: 2008
+fbase:m.03chtz8 Glastonbury 2008 5.082599
+fbase:m.014td7 Lambeth 2008 5.082599
+fbase:m.02q8pf7 BD 2008 5.082599
+fbase:m.04q63c EXPO 2008 5.082599
+fbase:m.02q8lnh SVR 2008 5.082599
+fbase:m.0kbws 2008 Olympics 5.082599
+fbase:m.0kbws Beijing 2008 5.082599
+fbase:m.0kbws 2008 Games 5.082599
+fbase:m.02rjqkc PES 2008 5.082599
+fbase:m.04q63c Expo 2008 5.082599
+ES-Response-For-Entry: amateur
+fbase:m.025t0v3 Amateur Boxer 5.3273587
+fbase:m.06v2md US Amateur 5.3273587
+fbase:m.0f0jy_j The Amateur 5.3273587
+fbase:m.058lb6 British Amateur 5.3273587
+fbase:m.0dxcx AMATEUR RADIO 5.3273587
+fbase:m.0421nkx Canadian Amateur 5.3273587
+fbase:m.0f9m4h7 Amateur Lovers 5.3273587
+fbase:m.058lb6 US Amateur 5.3273587
+fbase:m.012xcl French Amateur 5.3273587
+fbase:m.08fcz0 AMATEUR ROCKETRY 5.3273587
+ES-Response-For-Entry: photographer
+fbase:m.07hb0d War Photographer 6.4778595
+fbase:m.0lgw7 Photographer 6.4778595
+fbase:m.01q9l5s War Photographer 6.4778595
+fbase:m.0lgw7 Freelance Photographer 6.4118857
+fbase:m.0kvdmbj Outdoor Photographer 6.4118857
+fbase:m.0kvdmbj OUTDOOR PHOTOGRAPHER 6.4118857
+fbase:m.0lgw7 PHOtographer 6.4118857
+fbase:m.09q5cb Digital Photographer 6.4118857
+fbase:m.0cs19j The Photographer 6.411143
+fbase:m.01ny4v CELEBRITY PHOTOGRAPHER 6.411143
+ES-Response-For-Entry: baby
+fbase:m.0drp_qx Baby, Baby, Baby 6.396729
+fbase:m.0l0q1c Baby-Baby-Baby 6.348755
+fbase:m.03cbq86 Baby Baby Baby 6.3443027
+fbase:m.0dqdy7f Baby, Baby, Baby 6.343123
+fbase:m.016kvz8 Baby Baby Baby 6.343123
+fbase:m.0zw0dd Baby Baby 5.969037
+fbase:m.0zm3tc Baby, Baby 5.969037
+fbase:m.0qj3qt Baby Baby 5.969037
+fbase:m.05h40jr Baby Baby 5.92427
+fbase:m.05h40jr BABY BABY 5.92427
+ES-Response-For-Entry: blue
+fbase:m.0lsq22 Blue Blue Sky 4.672013
+fbase:m.01crwf Blue on Blue 4.671803
+fbase:m.0199rkk Blue On Blue 4.671803
+fbase:m.0n47k1k Blue on Blue 4.6576853
+fbase:m.0ds6d4h Blue Cross Blue 4.6576853
+fbase:m.06llbhx BLUE ON BLUE 4.6576853
+fbase:m.07sbh7d Blue Moon Blue 4.653673
+fbase:m.0n47k1k Blue On Blue 4.653673
+fbase:m.0f66qkx Blue Eyes Blue 4.653673
+fbase:m.01svbhw Blue on Blue 4.648092
+ES-Response-For-Entry: car
+fbase:m.014f__ Exotic Car 4.5356646
+fbase:m.03t80x Community Car 4.5356646
+fbase:m.01jfm_ Car Tag 4.5356646
+fbase:m.03y_qy CAR SHOW 4.5356646
+fbase:m.015smg Car Makers 4.5356646
+fbase:m.03wfhdl Armored Car 4.5356646
+fbase:m.02qv5pk European Car 4.5356646
+fbase:m.015smg Car Companies 4.5356646
+fbase:m.0ct3lp Romance Car 4.5356646
+fbase:m.06j11d Performance Car 4.5356646
+ES-Response-For-Entry: cat
+fbase:m.01q5qxk Cat Cat 6.3499246
+fbase:m.0b6mcjf Cat the Cat 5.582497
+fbase:m.03_wh5 Black Cat White Cat 4.7752213
+fbase:m.021_hq PUSSY CAT, PUSSY CAT 4.7752213
+fbase:m.0f3w9ry Pussy Cat, Pussy Cat 4.7624435
+fbase:m.03_wh5 BLACK CAT, WHITE CAT 4.7624435
+fbase:m.03_wh5 Black Cat, White Cat 4.7525306
+fbase:m.021_hq Pussy Cat Pussy Cat 4.7525306
+fbase:m.0gw68r Cat and Dupli-Cat 4.7525306
+fbase:m.0bb232 Wild Cat 4.5113406
+ES-Response-For-Entry: con
+fbase:m.0j9pydq Daisho Con 5.1285033
+fbase:m.026k9zp Oni-Con 5.1285033
+fbase:m.02zk91 Mid-Con 5.1285033
+fbase:m.0bkqv0 Wonder-Con 5.1285033
+fbase:m.0236m4 SF Con 5.1285033
+fbase:m.027nc71 Con Hunley 5.1285033
+fbase:m.0bwpsm Con Kafataris 5.1285033
+fbase:m.027c1vw Con-Ass 5.1285033
+fbase:m.0bxwf CON 5.1285033
+fbase:m.0ny80 Con man 5.1285033
+ES-Response-For-Entry: ct
+fbase:m.0dg0w CT SCAN 5.2120304
+fbase:m.0dg0w multidetector CT 5.2120304
+fbase:m.05wc1p Web-CT 5.2120304
+fbase:m.0rfdh CT 5.2120304
+fbase:m.03h4vyn PET / CT 5.2120304
+fbase:m.01p726 middletown, ct 5.2120304
+fbase:m.0fqrl2z CT-API 5.2120304
+fbase:m.0f1sm HARTFORD CT 5.2120304
+fbase:m.03lhj3 Groton, CT 5.2120304
+fbase:m.01x73 Ct 5.2120304
+ES-Response-For-Entry: ds
+fbase:m.029s1 DS/Non DS 6.199813
+fbase:m.0kymhw4 Disgaea DS 5.09605
+fbase:m.026wvn DS 5.09605
+fbase:m.025s510 DS 5.09605
+fbase:m.0k2pj1l DS 5.09605
+fbase:m.02dlk9 DS 5.09605
+fbase:m.0dtpkg DS 5.09605
+fbase:m.03m53_y DS 5.09605
+fbase:m.04cv3dk DS Smith 5.09605
+fbase:m.028jm0 Nitendo DS 5.09605
+ES-Response-For-Entry: el
+fbase:m.025tn25 El-Beth-El 4.865325
+fbase:m.025tn25 El-Beth-el 4.865325
+fbase:m.01qbld EL OH EL 4.864345
+fbase:m.01qbld el oh el 4.864345
+fbase:m.01qbld El oh el 4.8424373
+fbase:m.01qbld El Oh El 4.8371463
+fbase:m.07rty El Bueno, El Feo Y El Malo 4.2362504
+fbase:m.03f2h01 el-Hajj Malik el-Shabazz 4.176509
+fbase:m.0268hv7 El Diario de El Paso 4.176509
+fbase:m.0py1x El-Mahalla El- Kubra 4.176509
+ES-Response-For-Entry: est
+fbase:m.02j8r4 Paris Est 5.548275
+fbase:m.0gg9th1 Est! 5.548275
+fbase:m.089khy EST 5.548275
+fbase:m.02f7_9 EST 5.548275
+fbase:m.087n_b TGV Est 5.548275
+fbase:m.02j8r4 PARIS EST 5.548275
+fbase:m.06zrfp0 Est Em 5.548275
+fbase:m.0czbgcv Sud-Est 5.548275
+fbase:m.02hcv8 EST Time 5.548275
+fbase:m.0qmmd Est 5.548275
+ES-Response-For-Entry: flickr
+fbase:m.04dtx9 flickR 6.4118857
+fbase:m.03fh40 Flickr 6.4118857
+fbase:m.04dtx9 Flickr Explore 6.4118857
+fbase:m.03ghkyq Flickr 6.4118857
+fbase:m.0crchry Flickr 6.4118857
+fbase:m.04dtx9 FlIckr 6.4118857
+fbase:m.0289n8t Flickr 6.4118857
+fbase:m.0gh6xtp Flickr 6.352995
+fbase:m.018c71 Flickr 6.352995
+fbase:m.04dtx9 flickr 6.352995
+ES-Response-For-Entry: hot
+fbase:m.0n1nvb1 Hot, Hot, Hot 6.7500577
+fbase:m.0c2h_f HOT HOT HOT 6.7500577
+fbase:m.0fg5w9t Hot Hot Hot 6.7500577
+fbase:m.0fcxcwd Hot, Hot, Hot 6.7500577
+fbase:m.0_pt63 Hot Hot Hot 6.7500577
+fbase:m.0182t20 Hot, Hot, Hot 6.663823
+fbase:m.0fbrhxb Hot Hot Hot 6.663823
+fbase:m.019nb4x Hot Hot Hot 6.6200585
+fbase:m.0fv4zx1 Hot Hot Hot 6.6200585
+fbase:m.010706v Hot Hot Hot 6.6200585
+ES-Response-For-Entry: ice
+fbase:m.060nt6 Ice, Ice, Baby 5.6558056
+fbase:m.060nt6 Ice, Ice Baby 5.6558056
+fbase:m.060nt6 ICE ICE BABY 5.6558056
+fbase:m.060nt6 Ice Ice Baby 5.6008883
+fbase:m.0lqs62 Ice, Ice Baby 5.579051
+fbase:m.060nt6 Ice Ice baby 5.579051
+fbase:m.0fd9nj5 Ice Ice Baby 5.579051
+fbase:m.049s4jx Ice Cold Ice 5.579051
+fbase:m.034zrs5 Ice Ice Baby 5.5594497
+fbase:m.04b966 Ice Caps 4.5705814
+ES-Response-For-Entry: image
+fbase:m.0l7y_ DVD Image 4.9555984
+fbase:m.012h7d Tiff Image 4.9555984
+fbase:m.0b09d3 Image J 4.9555984
+fbase:m.02m6l7 Single Image 4.9555984
+fbase:m.04n7vs Image Masking 4.9555984
+fbase:m.08dw7z Resize Image 4.9555984
+fbase:m.025s24v Image Dissector 4.9555984
+fbase:m.01rkpx9 Blues Image 4.9555984
+fbase:m.02cj0n BODY IMAGE 4.9555984
+fbase:m.03c3s2d Bitmap Image 4.9555984
+ES-Response-For-Entry: la
+fbase:m.0pd7gsn La la la 5.262933
+fbase:m.05c08xc La La La 5.262933
+fbase:m.080n19n La La La 5.262933
+fbase:m.0y5h5w La, la, la 5.262933
+fbase:m.0f04vgf La La La 5.262933
+fbase:m.0d_25dd La-La-La 5.262933
+fbase:m.06_wg7s La La La 5.262933
+fbase:m.023c1j2 La La La 5.262933
+fbase:m.0dxxl8g La La La 5.260532
+fbase:m.0276m06 La La La 5.260532
+ES-Response-For-Entry: lady
+fbase:m.0cb9b2 Lady Tigers 4.246599
+fbase:m.07xg0g Lady Day 4.246599
+fbase:m.019jknk Hoodoo Lady 4.246599
+fbase:m.0cq7kw Lady 4.246599
+fbase:m.085r6h Lady Longhorns 4.246599
+fbase:m.0h3n9nv Lady Ranelagh 4.246599
+fbase:m.03x312 Lady Hatt 4.246599
+fbase:m.0h1pmn3 Lady Booby 4.246599
+fbase:m.0n_9gv6 Lady Amberley 4.246599
+fbase:m.04p_y6g Single Lady 4.246599
+ES-Response-For-Entry: man
+fbase:m.0csbl4 Man Man 5.1804943
+fbase:m.01rpll9 Man Man 5.157528
+fbase:m.0gzd2w Man Equals Man 4.5329323
+fbase:m.06ttc1s Man after Man 4.5183325
+fbase:m.06ttc1s Man After Man 4.4967904
+fbase:m.03hhvn2 Man O Man 4.4967904
+fbase:m.03jhxzr One Man Band Man 3.8853707
+fbase:m.04mh9c Rich man, poor man 3.8853707
+fbase:m.0bfkygx One Man Band Man 3.8853707
+fbase:m.02z44tp Rich Man, Poor Man 3.8728566
+ES-Response-For-Entry: me
+fbase:m.0fcs2mb me me me me me me 5.426268
+fbase:m.0bflbb6 Me Me Me 5.371731
+fbase:m.0bflbb6 ME ME ME 5.340872
+fbase:m.0hzmmwy Love Me Hate Me Kiss Me Kill Me 4.4363413
+fbase:m.092_83 Hold Me, Thrill Me, Kiss Me, Kill Me 4.426483
+fbase:m.092_83 Hold Me Thrill Me Kiss Me Kill Me 4.4144087
+fbase:m.0cmj1n Me Me Lai 4.3917537
+fbase:m.05fb5z0 Me Not Me 4.3819947
+fbase:m.01hp218 Kiss Me, Kiss Me, Kiss Me 3.8419843
+fbase:m.030fxvq Kiss Me Kiss Me Kiss Me 3.8419843
+ES-Response-For-Entry: men
+fbase:m.030mxy Men Seeking Men 5.4749
+fbase:m.03g10l2 Invisible Men 4.447522
+fbase:m.03v1jf Mad Men 4.447522
+fbase:m.01hwt BLACK MEN 4.447522
+fbase:m.0bmdc7m Pajama Men 4.447522
+fbase:m.04ydf5l Straw Men 4.447522
+fbase:m.01ftb2 Three Men 4.447522
+fbase:m.04zvdz0 Mad Men 4.447522
+fbase:m.02q2r3d X-Men 4.447522
+fbase:m.08mxwg Miserable Men 4.447522
+ES-Response-For-Entry: mer
+fbase:m.02z7ly Mer 5.4656687
+fbase:m.03yml9x la Mer 5.4656687
+fbase:m.04b4_b Mer 5.4656687
+fbase:m.03yml9x LA MER 5.4656687
+fbase:m.065_s9h Mer-Khamis 5.4656687
+fbase:m.0j28zs3 Mer 5.4656687
+fbase:m.026gcw MER 5.4656687
+fbase:m.03mckcp Mer 5.4656687
+fbase:m.01lj7r NASA MER 5.4656687
+fbase:m.026gcw Mer-B 5.4656687
+ES-Response-For-Entry: nb
+fbase:m.04vtqt NB (20 NB 7.0953016
+fbase:m.059s8 NB 5.952832
+fbase:m.0cm1mh NB Liquor 5.952832
+fbase:m.02pfymy NB 5.952832
+fbase:m.02rv5fh NB 5.952832
+fbase:m.04_lb Moncton NB 5.952832
+fbase:m.05k5z NB 5.952832
+fbase:m.0j51kq2 NB-52A 5.952832
+fbase:m.01m8lc NB 5.952832
+fbase:m.0b7520 NB Paul 5.952832
+ES-Response-For-Entry: ol
+fbase:m.05zwb3h Ol' Red 5.7672157
+fbase:m.0fjd7p Ol Parker 5.7672157
+fbase:m.09p5m OL 5.7672157
+fbase:m.015c1b OL 5.7672157
+fbase:m.0164xv Ol' Faithful 5.7672157
+fbase:m.06lpt4c OL' STROM 5.7672157
+fbase:m.01v_wzw Ol Redd 5.7672157
+fbase:m.0zz5zy Ol' MacDonald 5.7672157
+fbase:m.027ft1l Ol Felix 5.7672157
+fbase:m.02y200 Ol Cemet 5.7672157
+ES-Response-For-Entry: one
+fbase:m.018vmt8 One One One 5.7551785
+fbase:m.01hw2gc One And One Is One 4.93301
+fbase:m.04f69ph Gallery One One One 4.93301
+fbase:m.0n4336r One And One Is One 4.907163
+fbase:m.01hw2gc One and One Is One 4.893635
+fbase:m.030v9fx One and One is One 4.8730764
+fbase:m.01kcqr8 One Plus One Is One 4.8730764
+fbase:m.0dq955n One by One 4.6990833
+fbase:m.04mwz08 One On One 4.6990833
+fbase:m.03j9920 One By One 4.6990833
+ES-Response-For-Entry: people
+fbase:m.0sryp5 People, People 5.8683085
+fbase:m.08ps5k People Are People 5.1901207
+fbase:m.033gbc People To People 5.1819243
+fbase:m.08ps5k People are People 5.1819243
+fbase:m.0_9qhm People Are People 5.1819243
+fbase:m.025vy12 People to People 5.1808014
+fbase:m.0fvtvgt People Meet People 5.1808014
+fbase:m.01hgnml People Are People 5.1808014
+fbase:m.033gbc People to People 5.13477
+fbase:m.033gbc People to People Program 4.448675
+ES-Response-For-Entry: photo
+fbase:m.02qbl1m PHOTO SHOOT 5.4205933
+fbase:m.027bcpb Photo-Secession 5.4205933
+fbase:m.07cdyb PHOTO FINISH 5.4205933
+fbase:m.0dt53dr Nude Photo 5.4205933
+fbase:m.02cywx Photo Realism 5.4205933
+fbase:m.0b0fq Photo Collage 5.4205933
+fbase:m.070h6l PHOTO CD 5.4205933
+fbase:m.0fxzvp Photo Collection 5.4205933
+fbase:m.046h3d IPod Photo 5.4205933
+fbase:m.036jvk Photo Library 5.4205933
+ES-Response-For-Entry: photos
+fbase:m.026qd9r Magnum Photos 6.300315
+fbase:m.068jd PHOTOS 6.300315
+fbase:m.06vtbs9 Passport Photos 6.300315
+fbase:m.01szqd MAGNUM PHOTOS 6.300315
+fbase:m.09tzfp Photos 6.300315
+fbase:m.068jd PhoTOS 6.300315
+fbase:m.068jd pHOTos 6.300315
+fbase:m.03mjyc Photos 6.300315
+fbase:m.068jd Photos 6.2084107
+fbase:m.068jd pHOtos 6.2084107
+ES-Response-For-Entry: photos
+fbase:m.026qd9r Magnum Photos 6.300315
+fbase:m.068jd PHOTOS 6.300315
+fbase:m.06vtbs9 Passport Photos 6.300315
+fbase:m.01szqd MAGNUM PHOTOS 6.300315
+fbase:m.09tzfp Photos 6.300315
+fbase:m.068jd PhoTOS 6.300315
+fbase:m.068jd pHOTos 6.300315
+fbase:m.03mjyc Photos 6.300315
+fbase:m.068jd Photos 6.2084107
+fbase:m.068jd pHOtos 6.2084107
+ES-Response-For-Entry: pictures
+fbase:m.03l656 Carolco Pictures 5.032674
+fbase:m.0gtv_ty Colossal Pictures 5.032674
+fbase:m.07z948 Brightlight Pictures 5.032674
+fbase:m.0jt1ryz Oscilloscope Pictures 5.032674
+fbase:m.0b7xj5 Raintree Pictures 5.032674
+fbase:m.0dns0wt Pictures 5.032674
+fbase:m.0bk9f4 MY Pictures 5.032674
+fbase:m.0g1rw MGM Pictures 5.032674
+fbase:m.0fxz752 PICTURES 5.032674
+fbase:m.04w519x Holy Pictures 5.032674
+ES-Response-For-Entry: amateur
+fbase:m.025t0v3 Amateur Boxer 5.3273587
+fbase:m.06v2md US Amateur 5.3273587
+fbase:m.0f0jy_j The Amateur 5.3273587
+fbase:m.058lb6 British Amateur 5.3273587
+fbase:m.0dxcx AMATEUR RADIO 5.3273587
+fbase:m.0421nkx Canadian Amateur 5.3273587
+fbase:m.0f9m4h7 Amateur Lovers 5.3273587
+fbase:m.058lb6 US Amateur 5.3273587
+fbase:m.012xcl French Amateur 5.3273587
+fbase:m.08fcz0 AMATEUR ROCKETRY 5.3273587
+ES-Response-For-Entry: photographer
+fbase:m.07hb0d War Photographer 6.4778595
+fbase:m.0lgw7 Photographer 6.4778595
+fbase:m.01q9l5s War Photographer 6.4778595
+fbase:m.0lgw7 Freelance Photographer 6.4118857
+fbase:m.0kvdmbj Outdoor Photographer 6.4118857
+fbase:m.0kvdmbj OUTDOOR PHOTOGRAPHER 6.4118857
+fbase:m.0lgw7 PHOtographer 6.4118857
+fbase:m.09q5cb Digital Photographer 6.4118857
+fbase:m.0cs19j The Photographer 6.411143
+fbase:m.01ny4v CELEBRITY PHOTOGRAPHER 6.411143
+ES-Response-For-Entry: pictures
+fbase:m.03l656 Carolco Pictures 5.032674
+fbase:m.0gtv_ty Colossal Pictures 5.032674
+fbase:m.07z948 Brightlight Pictures 5.032674
+fbase:m.0jt1ryz Oscilloscope Pictures 5.032674
+fbase:m.0b7xj5 Raintree Pictures 5.032674
+fbase:m.0dns0wt Pictures 5.032674
+fbase:m.0bk9f4 MY Pictures 5.032674
+fbase:m.0g1rw MGM Pictures 5.032674
+fbase:m.0fxz752 PICTURES 5.032674
+fbase:m.04w519x Holy Pictures 5.032674
+ES-Response-For-Entry: port
+fbase:m.01d3hg Port Said Port 5.3236175
+fbase:m.06rgvz Port au Port 5.3102508
+fbase:m.05v92q Port au Port 5.2904034
+fbase:m.025v4gj Port au Port 5.2766833
+fbase:m.05w4pb Port Moody-Westwood-Port Coquitlam 4.563101
+fbase:m.03wd2_r Port au Port Bay 4.563101
+fbase:m.05w4pb Port Moody--Westwood--Port Coquitlam 4.5516434
+fbase:m.06rgvz Port au Port peninsula 4.5505657
+fbase:m.0b6h8dr PORT OF PORT ARTHUR 4.5505657
+fbase:m.0b6h8dr Port of Port Arthur 4.5346317
+ES-Response-For-Entry: q
+fbase:m.06y74g Q&Q 6.7742267
+fbase:m.03c83dx Ei-Q 4.794261
+fbase:m.04y4gl5 DJ Q 4.794261
+fbase:m.03f7xz_ Q-Unique 4.794261
+fbase:m.0cfz2fx Q 4.794261
+fbase:m.01_4z Q 4.794261
+fbase:m.06f_l0 Alpha Q 4.794261
+fbase:m.06xd0_ Q-Telecom 4.794261
+fbase:m.0dlh2 Q 4.794261
+fbase:m.09kb8 Q 4.794261
+ES-Response-For-Entry: ran
+fbase:m.01wvdd4 Ran 5.767167
+fbase:m.019npw Ran 5.767167
+fbase:m.05m6hd RAN BLAKE 5.767167
+fbase:m.06khd RAN 5.767167
+fbase:m.0gzrph Mega Ran 5.767167
+fbase:m.0nyl9m3 Garrod Ran 5.767167
+fbase:m.04fzqn3 Nem Ran 5.767167
+fbase:m.0b03mv RAN 5.767167
+fbase:m.02kyh RAN 5.767167
+fbase:m.095bbx Avri Ran 5.767167
+ES-Response-For-Entry: red
+fbase:m.015l6cs Red Red Red 5.6638074
+fbase:m.01bxz84 RED, RED WINE 4.642905
+fbase:m.060v7g Red Red Wine 4.631491
+fbase:m.01m5gt7 Red Red Meat 4.6244793
+fbase:m.0lj37r Red Red Wine 4.6233764
+fbase:m.013kzyl Red Red Rose 4.6233764
+fbase:m.060v7g Red, Red Wine 4.613718
+fbase:m.0fqcch7 Red Red Rose 4.613718
+fbase:m.0tgrnl Red on Red 4.613718
+fbase:m.025wqfc Red Seas under Red Skies 3.9698496
+ES-Response-For-Entry: riot
+fbase:m.0408lxw Rocket Riot 5.4206424
+fbase:m.029xrm Riot Gear 5.4206424
+fbase:m.01ng92 Draft Riot 5.4206424
+fbase:m.01ph81b RIOT 5.4206424
+fbase:m.0l1k_4 Mind Riot 5.4206424
+fbase:m.02p0zyj Riot 5.4206424
+fbase:m.07kdf9w Riot Games 5.4206424
+fbase:m.03m3ndw Haymarket Riot 5.4206424
+fbase:m.0j3ds8q Pussy Riot 5.4206424
+fbase:m.0hncjd8 Riot Police 5.4206424
+ES-Response-For-Entry: Tunis
+fbase:m.0127pb Tunis 6.4786515
+fbase:m.0d95y3 Tunis University 6.4786515
+fbase:m.05xhtkm Edwin Tunis 6.4786515
+fbase:m.068l0_ Espérance Tunis 6.2083616
+fbase:m.02vlv56 Tunis 6.2083616
+fbase:m.0br5f6 Tunis 6.2083616
+fbase:m.04bwpbx Tunis 6.2083616
+fbase:m.0ftn8 TUNIS 6.132078
+fbase:m.01__wg Tunis Air 6.132078
+fbase:m.0ftn8 tunis 6.132078
+ES-Response-For-Entry: Tunisia
+fbase:m.01yqpw Tunisia 6.4118867
+fbase:m.03mwlq Tunisia Campaign 6.4118867
+fbase:m.0ftn8 tunis, tunisia 6.4118867
+fbase:m.07fj_ TUNisia 6.4118867
+fbase:m.07fj_ tUNISIA 6.4118867
+fbase:m.06pllcl Tunisia 6.1320777
+fbase:m.06mz0_y Tunisia 6.1320777
+fbase:m.02_pwl monastir, tunisia 6.1320777
+fbase:m.07fj_ Tunisia 6.13117
+fbase:m.09937 Tunisia 6.13117
+ES-Response-For-Entry: up
+fbase:m.01h81fp Up Up Up Up Up Up 6.119623
+fbase:m.06lzy4r Ani DiFranco - Up Up Up Up Up Up 6.119623
+fbase:m.033jyy_ Up Up Up Up Up Up 6.103877
+fbase:m.0mhwmd Up Up Up Up Up Up 6.103877
+fbase:m.0nn61r4 Up Up Up 6.0763693
+fbase:m.0nlqk4_ Get Up Up Up! 5.1926723
+fbase:m.0fm_s94 Up Up & Away 4.9464326
+fbase:m.0h4sb0 Grew Up A Screw Up 4.2525725
+fbase:m.04fdy93 Up, Up And Away 4.2525725
+fbase:m.0h2s0w Up, Up and Oy Vey 4.2525725
+ES-Response-For-Entry: us
+fbase:m.05w_b6 Help Us/Save Us/Take Us Away 4.234988
+fbase:m.02q06f5 Nothing About Us Without Us 4.1722345
+fbase:m.01k_hdc Us and Us Only 4.1462
+fbase:m.0cb0qz US Senate 3.9336207
+fbase:m.0289wt8 US 3.9336207
+fbase:m.01brf7 US Highway 3.9336207
+fbase:m.07vsl US State 3.9336207
+fbase:m.02sr9_ US 3.9336207
+fbase:m.01w885 US Army 3.9336207
+fbase:m.0n5vrgt US 23 3.9336207
+ES-Response-For-Entry: vie
+fbase:m.01q8f_y Donnie Vie 5.4562063
+fbase:m.06hv6f6 Vie Française 5.4562063
+fbase:m.0h4wqg7 VIE 5.4562063
+fbase:m.06th1v9 Une Vie 5.4389315
+fbase:m.01531d Vie 5.4389315
+fbase:m.0cc6_7s La Vie 5.4389315
+fbase:m.02mbk Vie 5.4389315
+fbase:m.01q8f_y Vie 5.4389315
+fbase:m.06p6cn_ Une Vie 5.4389315
+fbase:m.03mcmzk Mona Vie 5.421385
+ES-Response-For-Entry: xt
+fbase:m.09y8b1 Xenon XT 6.0653114
+fbase:m.03qvjb IBM XT 6.0653114
+fbase:m.03yzxg X800 XT 6.0653114
+fbase:m.09t49 Xt 6.0653114
+fbase:m.05znf7n Xt 6.0653114
+fbase:m.065w89 Xt 6.0653114
+fbase:m.05znf7n xT 6.0653114
+fbase:m.03sc8 XT 6.0653114
+fbase:m.07g70c International XT 6.0653114
+fbase:m.03qvjb PC XT 6.0653114
+ES-Response-For-Entry: WP
+fbase:m.01qmkt WP 5.750265
+fbase:m.01j3qm wP 5.750265
+fbase:m.01jn8z WP 5.750265
+fbase:m.03vdzt WP 5.750265
+fbase:m.05qb8v1 WP MU 5.750265
+fbase:m.05wn0 WP 5.750265
+fbase:m.084z2 WP 8.0 5.750265
+fbase:m.024zrb WP 5.750265
+fbase:m.09g6490 WP 5.750265
+fbase:m.05ld_j WP 5.750265
+ES-Response-For-Entry: Cumulus
+fbase:m.0dr_xf1 Cumulus Hills 6.9013925
+fbase:m.066bq9 Cumulus congestus 6.9013925
+fbase:m.0f978_ Cumulus 6.758459
+fbase:m.026vp5p CUMULUS OOPHORUS 6.758459
+fbase:m.01b81m5 Cumulus 6.758459
+fbase:m.0f8gnsg Cumulus 6.6468883
+fbase:m.0dnj1g2 Cumulus 6.6468883
+fbase:m.0csh5 Cumulus Clouds 6.4779086
+fbase:m.0csh5 Cumulus 6.4779086
+fbase:m.0h3rz6v Cumulus 6.4779086
+ES-Response-For-Entry: Flash
+fbase:m.01lgzvw Flash Flash Flash 7.378134
+fbase:m.02rmc40 Flash Flash Revolution 6.024221
+fbase:m.0g55yr9 Flash Grenade 4.8683057
+fbase:m.07s83s4 FLASH 4.8683057
+fbase:m.079blw Flash 4.8683057
+fbase:m.01qyz8b Flash Girls 4.8683057
+fbase:m.07jm9w Royal Flash 4.8683057
+fbase:m.0dcp0 FLASH RAM 4.8683057
+fbase:m.03b1xy Flash 4.8683057
+fbase:m.058b6 ADOBE FLASH 4.8683057
+ES-Response-For-Entry: tag
+fbase:m.03rl3m Laser-Tag 5.2920704
+fbase:m.02rb73_ Tag Records 5.2920704
+fbase:m.0289vb4 TAG 5.2920704
+fbase:m.03djny TAG QUESTION 5.2920704
+fbase:m.063z4rl Dragon Tag 5.2920704
+fbase:m.01n2mbg Guten Tag 5.2920704
+fbase:m.03nv_y Tag Huer 5.2920704
+fbase:m.0990zw TAG Magnet 5.2920704
+fbase:m.0553b META TAG 5.2920704
+fbase:m.0281xsr Lazer Tag 5.2920704
+ES-Response-For-Entry: cloud
+fbase:m.05lvs Ort Cloud 4.977227
+fbase:m.01c76t Ash Cloud 4.977227
+fbase:m.0gsd0j Saint Cloud 4.977227
+fbase:m.0gyrxh4 The Cloud 4.977227
+fbase:m.06jbqr Kevin Cloud 4.977227
+fbase:m.09g921x Cloud API 4.977227
+fbase:m.040484b SILVER CLOUD 4.977227
+fbase:m.01js4fh Organic Cloud 4.977227
+fbase:m.02y_9m3 Cloud-Based 4.977227
+fbase:m.06dhr1 Data Cloud 4.977227
+ES-Response-For-Entry: by
+fbase:m.0g2spmg By and By 5.1091337
+fbase:m.0pvpb6 By and By 5.098892
+fbase:m.0f4ymdy By and By 5.098892
+fbase:m.0fr7rwp By and By 5.0710707
+fbase:m.01hz3y0 By and By 5.0704775
+fbase:m.03qjr7r The Sweet By and By 4.3792577
+fbase:m.0nnbvsf Day By Day By 4.3792577
+fbase:m.026t9tc Side by Side by Sondheim 4.3792577
+fbase:m.0520sn1 By Hook or By Crook 4.3792577
+fbase:m.03qjr7r The Sweet By And By 4.370479
+ES-Response-For-Entry: Roy
+fbase:m.0bh9b3 Roy Nichols 4.415085
+fbase:m.01wvf0l Roy Mayorga 4.415085
+fbase:m.05x09f Roy 4.415085
+fbase:m.0j438s2 Roy Harvey 4.415085
+fbase:m.01w9vfy Roy Bailey 4.415085
+fbase:m.0j_4mh5 Callista Roy 4.415085
+fbase:m.09ght3r Roy 4.415085
+fbase:m.01t1xlt Roy Brown 4.415085
+fbase:m.01tk73_ Roy Bookbinder 4.415085
+fbase:m.0g07jr Roy Bargy 4.415085
+ES-Response-For-Entry: Tanck
+ES-Response-For-Entry: and
+fbase:m.0xnc20 On and On and On and On 3.05435
+fbase:m.03g7v3h Again and Again and Again and Again 3.0513012
+fbase:m.0dp58kp Out And In And In And Out 3.049168
+fbase:m.05n1w1t Light and Colour and Shade and Darkness 3.049168
+fbase:m.03fqv7_ Again and Again and Again and Again 3.049168
+fbase:m.05gp0d Sex and Drugs and Rock and Roll 3.0465431
+fbase:m.04x1t3 BOB AND CAROL AND TED AND ALICE 3.0465431
+fbase:m.09rx2gv Pride and Prejudice and Zombies 3.0055933
+fbase:m.01mh077 Delaney and Bonnie and Friends 3.0055933
+fbase:m.01k8hj2 Earth and Sun and Moon 3.0055933
+ES-Response-For-Entry: Luke
+fbase:m.0f1bg Luke Starkiller 4.6969132
+fbase:m.01lmln Luke Campbell 4.6969132
+fbase:m.05vft1z Luke Wallin 4.6969132
+fbase:m.0cpv5v Luke Snyder 4.6969132
+fbase:m.02z0r7j Luke Kibet 4.6969132
+fbase:m.03mzfd DEREK LUKE 4.6969132
+fbase:m.0cp07kd Luke Nevill 4.6969132
+fbase:m.0gyvrg9 Luke Mitrani 4.6969132
+fbase:m.0c1nf6w Luke Brandon 4.6969132
+fbase:m.026y566 Luke Ronchi 4.6969132
+ES-Response-For-Entry: Morton
+fbase:m.0c9yzr Morton 5.032723
+fbase:m.04xxrb Morton 5.032723
+fbase:m.0bwtt04 Sarah Morton 5.032723
+fbase:m.04xyks Robin Morton 5.032723
+fbase:m.05fj01 Morton-Thiokol 5.032723
+fbase:m.0gyxddx Morton 5.032723
+fbase:m.0gqyl Morton 5.032723
+fbase:m.0284y4n Morton 5.032723
+fbase:m.03c9qgy Morton College 5.032723
+fbase:m.0hn9sht Timothy Morton 5.032723
+ES-Response-For-Entry: requires
+fbase:m.0ddd9vv Requires 7.1050324
+fbase:m.014x9n Requires OU 7.10429
+fbase:m.051xxjd Requires ODJFS 7.1042414
+ES-Response-For-Entry: Flash
+fbase:m.01lgzvw Flash Flash Flash 7.378134
+fbase:m.02rmc40 Flash Flash Revolution 6.024221
+fbase:m.0g55yr9 Flash Grenade 4.8683057
+fbase:m.07s83s4 FLASH 4.8683057
+fbase:m.079blw Flash 4.8683057
+fbase:m.01qyz8b Flash Girls 4.8683057
+fbase:m.07jm9w Royal Flash 4.8683057
+fbase:m.0dcp0 FLASH RAM 4.8683057
+fbase:m.03b1xy Flash 4.8683057
+fbase:m.058b6 ADOBE FLASH 4.8683057
+ES-Response-For-Entry: Player
+fbase:m.02xvnc Player Vs. Player 6.0542955
+fbase:m.02xvnc Player Vs Player 6.0542955
+fbase:m.02xvnc Player-versus-Player 6.0542955
+fbase:m.02xvnc Player VS Player 5.944908
+fbase:m.02xvnc Player Versus Player 5.944704
+fbase:m.02xvnc Player vs Player 5.944704
+fbase:m.02xvnc Player versus Player 5.944704
+fbase:m.02xvnc Player vs. Player 5.944704
+fbase:m.02xvnc Player-Versus-Player 5.91254
+fbase:m.0g6v48 Gom Player 4.8926096
+ES-Response-For-Entry: 9
+fbase:m.05mw1xd NSS-9 5.0334654
+fbase:m.04j35nq Route 9 5.0334654
+fbase:m.0chnf Solaris 9 5.0334654
+fbase:m.01nlkp4 Evil 9 5.0334654
+fbase:m.0k2lmbx Scarabeo 9 5.0334654
+fbase:m.02gdx3 Group 9 5.0334654
+fbase:m.02cg9 DX 9 5.0334654
+fbase:m.02vy43 9 Squadron 5.0334654
+fbase:m.05wtk PDP-9 5.0334654
+fbase:m.0gl0bgh Falcon 9 5.0334654
+ES-Response-For-Entry: or
+fbase:m.0zcjl Redmond, OR 4.3692064
+fbase:m.025t_br OR-5 4.3692064
+fbase:m.01vt6b Or Yehuda 4.3692064
+fbase:m.09y1jl OR 99W 4.3692064
+fbase:m.0zgn7 McMinnville, OR 4.3692064
+fbase:m.034yqq Orch-OR 4.3692064
+fbase:m.0zgfm HILLSBORO,OR 4.3692064
+fbase:m.028gm DIRECT OR 4.3692064
+fbase:m.0g5pmv0 OR 4.3692064
+fbase:m.0k7h0 OR 4.3692064
+ES-Response-For-Entry: better
+fbase:m.0zdnl5 Better and Better 6.035063
+fbase:m.0fc_nwr Better And Better 6.035063
+fbase:m.01x7dp Better Things for Better Living 5.1467037
+fbase:m.02vmwxq Better Questions 4.970184
+fbase:m.0gmd42l Better Day 4.970184
+fbase:m.05q3s4m Do Better 4.970184
+fbase:m.0l1mbx Better Things 4.970184
+fbase:m.0fqbb1r Nothing Better 4.970184
+fbase:m.069r2y9 Better Answers 4.970184
+fbase:m.0bb81rw Getting Better 4.970184
+ES-Response-For-Entry: Twits
+fbase:m.047hy9 TWITS 7.1050324
+fbase:m.0289n8t Twits 7.10429
+fbase:m.047hy9 TWiTs 6.9023013
+fbase:m.047hy9 TWITs 6.9023013
+fbase:m.047hy9 Twits 6.9013925
+fbase:m.09y169 Dithered Twits 6.9013925
+ES-Response-For-Entry: from
+fbase:m.02qc1pd Comin' From Where I'm From 4.2941427
+fbase:m.0cz55g Comin' From Where I'm From 4.2730455
+fbase:m.0cz55g Comin' from Where I'm From 4.269831
+fbase:m.06zl7g From Software 4.048557
+fbase:m.043nypn MAIL FROM 4.048557
+fbase:m.09fbbx Freedom From 4.048557
+fbase:m.08s643 From Beyond 4.048557
+fbase:m.02d4jl From&T 4.048557
+fbase:m.06zl7g FROM SOFTWARE 4.0305414
+fbase:m.0nl7pg6 From Scratch 4.0305414
+ES-Response-For-Entry: photobabble
+ES-Response-For-Entry: No
+fbase:m.03fzc40 No No No 5.8437767
+fbase:m.0f43r5 No No Song 4.7827063
+fbase:m.0216fg No No Nanette 4.7827063
+fbase:m.02_63d NO MEANS NO 4.7827063
+fbase:m.0216fg NO NO NANETTE 4.7714233
+fbase:m.0216fg No, No Nanette 4.7714233
+fbase:m.02_63d No means No 4.7714233
+fbase:m.0nmvh5v No No Song 4.7714233
+fbase:m.0dydll1 No No Keshagesh 4.769047
+fbase:m.0216fg No, No, Nanette 4.769047
+ES-Response-For-Entry: public
+fbase:m.0g57nf0 Public Image 4.0109015
+fbase:m.02qk5d3 Public Anthropology 4.0109015
+fbase:m.0158jv PUBLIC SERVANTS 4.0109015
+fbase:m.05jxkf Public 4.0109015
+fbase:m.02stgt Public 4.0109015
+fbase:m.01ss7q Public 4.0109015
+fbase:m.0crph0 Public Administration 4.0109015
+fbase:m.08llwn Public Relations 4.0109015
+fbase:m.01bvkn PUBLIC CITIZEN 4.0109015
+fbase:m.04jl_0g Public Archaeology 4.0109015
+ES-Response-For-Entry: Twitter
+fbase:m.0g54hbt Twitter 6.0644045
+fbase:m.03ghkyq Twitter 6.0644045
+fbase:m.01_bhs Twitter 6.0644045
+fbase:m.07t31 Twitter 6.0644045
+fbase:m.0j671ln Twitter Bootstrap 6.0644045
+fbase:m.03vgrr Twitter 6.0644045
+fbase:m.0hn1vcg Twitter 6.0644045
+fbase:m.03zr5 Twitter 6.0644045
+fbase:m.09jcvs Twitter 6.0644045
+fbase:m.02rf5_g Twitter 6.0644045
+ES-Response-For-Entry: messages
+fbase:m.05zlnxr Messages 6.299406
+fbase:m.02p1fkx Text-Messages 6.299406
+fbase:m.0fj7z INSTANT MESSAGEs 6.299406
+fbase:m.0g52jn4 messageS 6.299406
+fbase:m.0crx42q Messages Deleted 6.299406
+fbase:m.06l4275 Silent Messages 6.209153
+fbase:m.02p1fkx Text Messages 6.209153
+fbase:m.0fj7z INSTANT MESSAGES 6.209153
+fbase:m.06ttkb5 Miniature Messages 6.209153
+fbase:m.0wn636 Messages 6.209153
+ES-Response-For-Entry: Based
+fbase:m.01qb67 WEB BASED 5.2007937
+fbase:m.01qb67 Web-Based 5.2007937
+fbase:m.01qb67 Web Based 5.2007937
+fbase:m.0876m X-Based 5.2007937
+fbase:m.093klg Evidence-Based 5.2007937
+fbase:m.02qlt EVIDENCE BASED 5.2007937
+fbase:m.0nlv4pm BASED 5.2007937
+fbase:m.01qb67 Browser-Based 5.105932
+fbase:m.03rlt Internet-Based 5.105932
+fbase:m.0x27b Turn Based 5.105932
+ES-Response-For-Entry: on
+fbase:m.0g_5tb On & On 4.7866416
+fbase:m.0qd2dc On & On 4.7866416
+fbase:m.0dp2g7v On & On 4.7683034
+fbase:m.0d_vbpz On & On 4.76531
+fbase:m.013cw21 On & On 4.76531
+fbase:m.013p8qz On & On 4.76531
+fbase:m.0nm472p On & On 4.7651405
+fbase:m.0121zjw On and On and On 4.3799667
+fbase:m.0fx_m65 On and On and On 4.377061
+fbase:m.0xnc20 On and On and On and On 4.214625
+ES-Response-For-Entry: Ocular
+fbase:m.09kf36 Ocular Hypertension 6.646887
+fbase:m.05fs77x Ocular Pain 6.646887
+fbase:m.03rd74 OCULAR ROSACEA 6.646887
+fbase:m.0bhb508 Ocular Adnexa 6.478652
+fbase:m.0122t Ocular Albinism 6.478652
+fbase:m.01xn0w0 Ocular Histoplasmosis 6.478652
+fbase:m.04yry1 Ocular Dominance 6.4778595
+fbase:m.014sv8 OCULAR 6.4778595
+fbase:m.03rd74 Ocular Rosacea 6.4778595
+fbase:m.08dwq7 Ocular Melanosis 6.4778595
+ES-Response-For-Entry: Professor
+fbase:m.06w59g4 Professor 4.995279
+fbase:m.05qbv_d Professor Jameson 4.995279
+fbase:m.0gwf4x Professor 4.995279
+fbase:m.025fh Professor Xavier 4.995279
+fbase:m.0c0_6h Professor 4.995279
+fbase:m.07t3gd Professor 4.995279
+fbase:m.05bbx9 Professor 4.995279
+fbase:m.02w5gjc Professor 4.995279
+fbase:m.04t81h Dana Professor 4.995279
+fbase:m.028qdb The Professor 4.995279
+ES-Response-For-Entry: Powered
+fbase:m.06xbd SOLAR POWERED 6.2995224
+fbase:m.01c0z Battery Powered 6.2995224
+fbase:m.03xcwx Powered Paragliding 6.2995224
+fbase:m.05k97 Nuclear Powered 6.2995224
+fbase:m.06wyv Steam-Powered 6.2995224
+fbase:m.0fcwyx8 Light Powered 6.2995224
+fbase:m.058_sw Gas Powered 6.168224
+fbase:m.01c0z Battery-Powered 6.168224
+fbase:m.02x7h4 Powered Armour 6.168224
+fbase:m.02x7h4 Powered Armor 6.168224
+ES-Response-For-Entry: by
+fbase:m.0g2spmg By and By 5.1091337
+fbase:m.0pvpb6 By and By 5.098892
+fbase:m.0f4ymdy By and By 5.098892
+fbase:m.0fr7rwp By and By 5.0710707
+fbase:m.01hz3y0 By and By 5.0704775
+fbase:m.03qjr7r The Sweet By and By 4.3792577
+fbase:m.0nnbvsf Day By Day By 4.3792577
+fbase:m.026t9tc Side by Side by Sondheim 4.3792577
+fbase:m.0520sn1 By Hook or By Crook 4.3792577
+fbase:m.03qjr7r The Sweet By And By 4.370479
+ES-Response-For-Entry: WordPress
+fbase:m.0mzwd Wordpress 6.555726
+fbase:m.04yq27v WordPress 6.555726
+fbase:m.032jt_ Wordpress 6.555726
+fbase:m.02vtpl WOrdpress 6.555726
+fbase:m.0d_gvh Wordpress 6.4778595
+fbase:m.02vtpl WordPress Foundation 6.4778595
+fbase:m.02vtpl wordPress 6.4778595
+fbase:m.0cp0_3x Wordpress 6.4778595
+fbase:m.02vtpl Wordpress 6.4777436
+fbase:m.09ggn9 Wordpress 6.4777436
