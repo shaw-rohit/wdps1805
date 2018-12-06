@@ -3,7 +3,7 @@ import requests, json
 def sparql(domain, fb_id):
     url = 'http://%s/sparql' % domain
     #
-    response = requests.post(url, data={'print': True, 'query': "select * where {<http://rdf.freebase.com/ns/" + fb_id + "> ?p ?o} limit 10"})
+    response = requests.post(url, data={'print': True, 'query': "select * where {<http://rdf.freebase.com/ns/" + fb_id + "> ?p ?o} limit 100"})
     if response:
         try:
             response = response.json()
