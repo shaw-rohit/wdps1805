@@ -35,7 +35,7 @@ def sparql_main(domain):
                     resp = sparql(domain, id.split(':')[1])
                     resp = resp.get('results').get('bindings')
                     for binding in resp:
-                        out.write(binding.get('o').get('value'))
+                        out.write(binding.get('o').get('value') + '\n')
 
 
 
