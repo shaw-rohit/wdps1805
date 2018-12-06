@@ -7,7 +7,7 @@ def sparql(domain, fb_id):
     if response:
         try:
             response = response.json()
-            return json.dumps(response, indent=2)
+            return response
         except Exception as e:
             print(response)
             raise e
@@ -15,24 +15,25 @@ def sparql(domain, fb_id):
 if __name__ == '__main__':
     import sys
     try:
-        _, DOMAIN, QUERY = sys.argv
+        _, DOMAIN = sys.argv
     except Exception as e:
-        print('Usage: python sparql.py DOMAIN QUERY')
+        print('Usage: python sparql.py DOMAIN')
         sys.exit(0)
 
 # will work correctly if a single html page is given to it
 def sparql_main(domain):
     with open("labels_one_page.txt") as f:
-        with open("values_one_page.txt") as out:
-            out.write(f.readline(out))
+        with open("values_one_page.txt", "w") as out:
+            out.write(f.readline())
             for line in f:
                 if 'ES-Response-For-Entry: ' in line:
                     out.write(line)
                 else:
                     # sparql for fb IDs entities for the given entry
                     id = line.split(' ')[0]
-                    out.write('Sparql_Response-For-Id: ', id)
-                    resp = sparql(domain, id).get('results').get('bindings')
+                    out.write(id + '\n')
+                    resp = sparql(domain, id.split(':')[1])
+                    resp = resp.get('results').get('bindings')
                     for binding in resp:
                         out.write(binding.get('o').get('value'))
 
