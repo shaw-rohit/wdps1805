@@ -36,7 +36,7 @@ for record in f:
 		file_object.write(a1)
 		file_object.close()
 		print entities
-#		quit()
+		quit()
 
 
 
