@@ -5,11 +5,12 @@ from ElasticSearcher import ElasticSearcher
 from SparqlSearcher import SparqlSearcher
 from TextExtractor import TextExtractor
 from WarcRecord import WarcRecord
-from pyspark_mock import SparkContext
+from pyspark import SparkContext
 import sys
-from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT, LOG
+from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
-logging.root.setLevel(logging.DEBUG if LOG else logging.WARNING)
+logger = logging.root
+logger.setLevel(logging.DEBUG)
 
 INFILE = sys.argv[1]
 OUTFILE = sys.argv[2]
@@ -19,7 +20,7 @@ SPARQL_ADDRESS = sys.argv[4]
 es = ElasticSearcher(
     ES_ADDRESS,
     ES_RESULTS_COUNT,
-    mock=True
+    mock=False
 )
 
 sparql = SparqlSearcher(
@@ -27,13 +28,15 @@ sparql = SparqlSearcher(
     SPARQL_RESULTS_COUNT,
     SPARQL_RETRY_ATTEMPTS,
     SPARQL_RETRY_DELAY,
-    mock=True
+    mock=False
 )
 
 
-def process_page(web_arch_record: str):
+def process_page(row: tuple):
+    _, web_arch_record = row
     if not web_arch_record:
         return
+    logger.debug('Processing a warc record...')
     warc_record = WarcRecord(web_arch_record)
     if warc_record.broken:
         return
@@ -70,7 +73,7 @@ def process_page(web_arch_record: str):
             id_with_max_common = ids[0]
         label_with_max_common = canonical_labels_of_ids[id_with_max_common]
         yield stringify_reply(warc_record.id, label_with_max_common, id_with_max_common)
-    logging.debug('Processed page %s', warc_record.id)
+    logger.debug('Processed record %s', warc_record.id)
 
 
 def stringify_reply(warc_id, label, freebase_id):

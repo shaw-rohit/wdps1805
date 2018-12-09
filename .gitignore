@@ -1,4 +1,11 @@
 __pycache__
 .idea
 venv
+*.zip
 *.tmp
+.es_*
+.kb_*
+*.fs0
+*.log
+*.gz
+
