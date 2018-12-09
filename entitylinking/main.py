@@ -10,7 +10,7 @@ import sys
 from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
 logger = logging.root
-logger.setLevel(logging.DEBUG)
+logger.setLevel(logging.INFO)
 
 INFILE = sys.argv[1]
 OUTFILE = sys.argv[2]
@@ -36,7 +36,7 @@ def process_page(row: tuple):
     _, web_arch_record = row
     if not web_arch_record:
         return
-    logger.debug('Processing a warc record...')
+    logger.info('Processing a warc record...')
     warc_record = WarcRecord(web_arch_record)
     if warc_record.broken:
         return
@@ -73,7 +73,7 @@ def process_page(row: tuple):
             id_with_max_common = ids[0]
         label_with_max_common = canonical_labels_of_ids[id_with_max_common]
         yield stringify_reply(warc_record.id, label_with_max_common, id_with_max_common)
-    logger.debug('Processed record %s', warc_record.id)
+    logger.info('Processed record %s', warc_record.id)
 
 
 def stringify_reply(warc_id, label, freebase_id):
