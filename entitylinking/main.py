@@ -42,9 +42,11 @@ def process_page(row: tuple):
         return
     words = TextExtractor.get_all_words(warc_record.payload)
 
+    context_size = 10;
     canonical_labels_of_ids = dict()
     related_ids_of_ids = dict()
     ids_of_words = defaultdict(list)
+    words_wo_repititions = []
     # Build sets
     for word in words:
         for es_result in es.search(word):
@@ -52,25 +54,27 @@ def process_page(row: tuple):
                 # We are not interested in labels with repeating freebase ids,
                 # so we just skip them
                 continue
+            words_wo_repititions.append(word)
             ids_of_words[word].append(es_result.id)
             canonical_labels_of_ids[es_result.id] = es_result.label
             related_ids_of_ids[es_result.id] = set(i for i in sparql.search(es_result.id))
 
     # Calc links
-    for word, ids in ids_of_words.items():
+
+    for i, word in enumerate(words_wo_repititions):
         max_common = -1
         id_with_max_common = None
-        for freebase_id in ids:
-            for other_id, related_ids in related_ids_of_ids.items():
-                if freebase_id == other_id:
-                    continue
-                common = len(related_ids.intersection(related_ids_of_ids[freebase_id]))
-                if common > max_common:
-                    max_common = common
-                    id_with_max_common = freebase_id
+        for j in range(i - context_size, i + context_size + 1):
+            if j != i and j in range(0, len(words_wo_repititions)):
+                for freebase_id in ids_of_words[word]:
+                    for other_id in ids_of_words[words_wo_repititions[j]]:
+                        common = len(related_ids_of_ids[other_id].intersection(related_ids_of_ids[freebase_id]))
+                        if common > max_common:
+                            max_common = common
+                            id_with_max_common = freebase_id
         if id_with_max_common is None:
             # No label intersects with anything, let's just pick the first one
-            id_with_max_common = ids[0]
+            id_with_max_common = ids_of_words[word][0]
         label_with_max_common = canonical_labels_of_ids[id_with_max_common]
         yield stringify_reply(warc_record.id, label_with_max_common, id_with_max_common)
     logger.info('Processed record %s', warc_record.id)
