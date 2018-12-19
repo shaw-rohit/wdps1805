@@ -5,7 +5,9 @@ from ElasticSearcher import ElasticSearcher
 from SparqlSearcher import SparqlSearcher
 from TextExtractor import TextExtractor
 from WarcRecord import WarcRecord
-from pyspark import SparkContext
+from pyspark_mock import SparkContext
+from nltk.corpus import stopwords
+
 import sys
 from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
@@ -41,6 +43,7 @@ def process_page(row: tuple):
     if warc_record.broken:
         return
     words = TextExtractor.get_all_words(warc_record.payload)
+    words = [word for word in words if word not in stopwords.words('english')]
 
     context_size = 10;
     canonical_labels_of_ids = dict()
@@ -61,36 +64,21 @@ def process_page(row: tuple):
 
     # Calc links
 
-    id_computed = dict()
     for i, word in enumerate(words_wo_repititions):
         max_common = -1
         id_with_max_common = None
-        #divide it into two half before and after , the words before arealready computed
-        #so we could save the ID 
-        for j in range(i - context_size, i-1):
-            if j in range(0, len(words_wo_repititions)):
-                for freebase_id in ids_of_words[word]:
-                    for other_id in id_computed[words_wo_repititions[j]]:
-                        common = len(related_ids_of_ids[other_id].intersection(related_ids_of_ids[freebase_id]))
-                        if common > max_common:
-                            max_common = common
-                            id_with_max_common = freebase_id
-
-        for j in range(i+, i + context_size + 1):
-            if j in range(0, len(words_wo_repititions)):
+        for j in range(i - context_size, i + context_size + 1):
+            if j != i and j in range(0, len(words_wo_repititions)):
                 for freebase_id in ids_of_words[word]:
                     for other_id in ids_of_words[words_wo_repititions[j]]:
                         common = len(related_ids_of_ids[other_id].intersection(related_ids_of_ids[freebase_id]))
                         if common > max_common:
                             max_common = common
                             id_with_max_common = freebase_id
-
-
         if id_with_max_common is None:
             # No label intersects with anything, let's just pick the first one
             id_with_max_common = ids_of_words[word][0]
         label_with_max_common = canonical_labels_of_ids[id_with_max_common]
-        id_computed[word] = id_with_max_common 
         yield stringify_reply(warc_record.id, label_with_max_common, id_with_max_common)
     logger.info('Processed record %s', warc_record.id)
 
