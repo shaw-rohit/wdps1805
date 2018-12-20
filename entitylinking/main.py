@@ -14,10 +14,10 @@ from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, 
 logger = logging.root
 logger.setLevel(logging.INFO)
 
-INFILE = sys.argv[1]
-OUTFILE = sys.argv[2]
-ES_ADDRESS = sys.argv[3]
-SPARQL_ADDRESS = sys.argv[4]
+INFILE = sys.argv[0]
+OUTFILE = sys.argv[1]
+ES_ADDRESS = sys.argv[2]
+SPARQL_ADDRESS = sys.argv[3]
 
 es = ElasticSearcher(
     ES_ADDRESS,
@@ -103,3 +103,7 @@ rdd = sc.newAPIHadoopFile(
 rdd = rdd.flatMap(process_page)
 
 rdd = rdd.saveAsTextFile(OUTFILE)
+
+################################
+# trying to check the F1 scores#
+################################
