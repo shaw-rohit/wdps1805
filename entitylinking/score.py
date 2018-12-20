@@ -1,7 +1,6 @@
 INPUTFILE = sys.argv[1]
 OUTFILE = sys.argv[2]
-ES_ADDRESS =sys.argv[3]
-SPARQL_ADDRESS = sys.argv[4]
+
 
 INPUT = {}
 for line in open(INPUTFILE):
@@ -9,12 +8,6 @@ for line in open(INPUTFILE):
         INPUT[(record,string)] = entity
 n_INPUT = len(INPUT)
 print ('input: %s' % n_INPUT)
-output = {}
-for line in open(outputFile):
-  record, string, entity =line.strip().split('\t',2)
-  output[(record, string)]=entity
-n_output =len(input)
-print('output: %s' % n_output)
 
 
 OUTPUT = {}for line in open(OUTFILE):
