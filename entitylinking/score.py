@@ -1,27 +1,27 @@
-INPUTFILE = sys.argv[1]
-OUTFILE = sys.argv[2]
+GoldFile = sys.argv[1]
+PredFile = sys.argv[2]
 
 
-INPUT = {}
-for line in open(INPUTFILE):
+Gold = {}
+for line in open(GoldFile):
         record, string, entity = line.strip().split('\t', 2)
-        INPUT[(record,string)] = entity
-n_INPUT = len(INPUT)
-print ('input: %s' % n_INPUT)
+        Gold[(record,string)] = entity
+n_Gold = len(Gold)
+print ('input: %s' % n_Gold)
 
 
-OUTPUT = {}for line in open(OUTFILE):
+OUTPUT = {}for line in open(PredFile):
         record, string, entity = line.strip().split('\t', 2)
-        OUTPUT[(record,string)] =entity
-n_OUTPUT = len(OUTPUT)
-print ('output: %s' % n_OUTPUT)
+        Pred[(record,string)] =entity
+n_Pred = len(Pred)
+print ('output: %s' % n_Pred)
 
 
-n_correct = sum( int(OUTPUT[i]==INPUT[i]) for i in set(INPUT) & set(OUTPUT))
+n_correct = sum( int(Gold[i]==Pred[i]) for i in set(Gold) & set(Pred))
 print('correct: %s' % n_correct)
-precision =float(n_correct) / float(n_OUTPUT)
+precision =float(n_correct) / float(n_Pred)
 print('precision: %s' % precision)
-recall = float(n_correct) / float(n_INPUT)
+recall = float(n_correct) / float(n_Gold)
 print('recall: %s' % recall)
 f1 = 2 *( (precision * recall) / (precision + recall) )
 print('f1: %s' %f1)
