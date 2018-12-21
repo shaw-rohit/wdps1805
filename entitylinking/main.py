@@ -5,7 +5,9 @@ from ElasticSearcher import ElasticSearcher
 from SparqlSearcher import SparqlSearcher
 from TextExtractor import TextExtractor
 from WarcRecord import WarcRecord
-from pyspark import SparkContext
+from pyspark_mock import SparkContext
+from nltk.corpus import stopwords
+
 import sys
 from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
@@ -41,6 +43,7 @@ def process_page(row: tuple):
     if warc_record.broken:
         return
     words = TextExtractor.get_all_words(warc_record.payload)
+    words = [word for word in words if word not in stopwords.words('english')]
 
     context_size = 10;
     canonical_labels_of_ids = dict()
@@ -100,3 +103,5 @@ rdd = sc.newAPIHadoopFile(
 rdd = rdd.flatMap(process_page)
 
 rdd = rdd.saveAsTextFile(OUTFILE)
+
+
