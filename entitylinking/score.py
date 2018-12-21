@@ -1,3 +1,4 @@
+import sys
 GoldFile = sys.argv[1]
 PredFile = sys.argv[2]
 
@@ -9,8 +10,7 @@ for line in open(GoldFile):
 n_Gold = len(Gold)
 print ('input: %s' % n_Gold)
 
-
-OUTPUT = {}for line in open(PredFile):
+Pred = {}for line in open(PredFile):
         record, string, entity = line.strip().split('\t', 2)
         Pred[(record,string)] =entity
 n_Pred = len(Pred)
