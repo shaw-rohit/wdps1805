@@ -22,7 +22,7 @@ SPARQL_ADDRESS = sys.argv[4]
 es = ElasticSearcher(
     ES_ADDRESS,
     ES_RESULTS_COUNT,
-    mock=False
+    mock=True
 )
 
 sparql = SparqlSearcher(
@@ -30,7 +30,7 @@ sparql = SparqlSearcher(
     SPARQL_RESULTS_COUNT,
     SPARQL_RETRY_ATTEMPTS,
     SPARQL_RETRY_DELAY,
-    mock=False
+    mock=True
 )
 
 def get_continuous_chunks(text):
@@ -92,12 +92,12 @@ def process_page(row: tuple):
                 # No label intersects with anything, let's just pick the first one
                 id_with_max_common = ids[0]
             label_with_max_common = canonical_labels_of_ids[id_with_max_common]
-            yield stringify_reply(warc_record.id, label_with_max_common, id_with_max_common)
+            yield stringify_reply(warc_record.id, word, id_with_max_common)
     logger.info('Processed record %s', warc_record.id)
 
 
-def stringify_reply(warc_id, label, freebase_id):
-    return '%s\t%s\t%s' % (warc_id, label, freebase_id)
+def stringify_reply(warc_id, word, label, freebase_id):
+    return '%s\t%s\t%s\t%s' % (warc_id, word, freebase_id)
 
 
 #########################
