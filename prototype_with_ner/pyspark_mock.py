@@ -32,7 +32,7 @@ class SparkContext:
         with open(file_path, 'rb') as file:
             rows = [record for record in enumerate(file_split(file, delimiter, 4096))]
             logging.info('Read file from disk complete, total pages: %d', len(rows))
-            return SynchronousRDD(rows[:50])
+            return SynchronousRDD(rows[:60])
 
 
 # https://stackoverflow.com/questions/10183784/

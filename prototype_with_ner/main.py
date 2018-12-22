@@ -8,6 +8,7 @@ from WarcRecord import WarcRecord
 from pyspark_mock import SparkContext
 from nltk import ne_chunk, pos_tag, word_tokenize
 from nltk.tree import Tree
+from nltk.corpus import stopwords
 import sys
 from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
@@ -22,7 +23,7 @@ SPARQL_ADDRESS = sys.argv[4]
 es = ElasticSearcher(
     ES_ADDRESS,
     ES_RESULTS_COUNT,
-    mock=True
+    mock=False
 )
 
 sparql = SparqlSearcher(
@@ -30,7 +31,7 @@ sparql = SparqlSearcher(
     SPARQL_RESULTS_COUNT,
     SPARQL_RETRY_ATTEMPTS,
     SPARQL_RETRY_DELAY,
-    mock=True
+    mock=False
 )
 
 def get_continuous_chunks(text):
@@ -59,6 +60,7 @@ def process_page(row: tuple):
     if warc_record.broken:
         return
     words = TextExtractor.get_all_words(warc_record.payload)
+    words = [word for word in words if word not in stopwords.words('english')]
     ners = get_continuous_chunks(warc_record.payload)
 
     canonical_labels_of_ids = dict()
@@ -96,8 +98,8 @@ def process_page(row: tuple):
     logger.info('Processed record %s', warc_record.id)
 
 
-def stringify_reply(warc_id, word, label, freebase_id):
-    return '%s\t%s\t%s\t%s' % (warc_id, word, freebase_id)
+def stringify_reply(warc_id, word, freebase_id):
+    return '%s\t%s\t%s' % (warc_id, word, freebase_id)
 
 
 #########################
