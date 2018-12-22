@@ -28,11 +28,11 @@ class SparkContext:
     @staticmethod
     def newAPIHadoopFile(file_path: str, *_1, conf: dict) -> SynchronousRDD:
         delimiter = conf['textinputformat.record.delimiter']
-        logging.debug('Reading file from disk...')
+        logging.info('Reading file from disk...')
         with open(file_path, 'rb') as file:
             rows = [record for record in enumerate(file_split(file, delimiter, 4096))]
-            logging.debug('Read file from disk complete, total pages: %d', len(rows))
-            return SynchronousRDD(rows[:80])
+            logging.info('Read file from disk complete, total pages: %d', len(rows))
+            return SynchronousRDD(rows[:50])
 
 
 # https://stackoverflow.com/questions/10183784/
