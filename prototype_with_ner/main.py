@@ -10,6 +10,7 @@ from nltk import ne_chunk, pos_tag, word_tokenize
 from nltk.tree import Tree
 from nltk.corpus import stopwords
 import sys
+import re
 from config import ES_RESULTS_COUNT, SPARQL_RETRY_DELAY, SPARQL_RETRY_ATTEMPTS, SPARQL_RESULTS_COUNT
 
 logger = logging.root
@@ -57,11 +58,12 @@ def process_page(row: tuple):
         return
     logger.info('Processing a warc record...')
     warc_record = WarcRecord(web_arch_record)
+    warc_payload = warc_record.payload
     if warc_record.broken:
         return
-    words = TextExtractor.get_all_words(warc_record.payload)
+    words = TextExtractor.get_all_words(warc_payload)
     words = [word for word in words if word not in stopwords.words('english')]
-    ners = get_continuous_chunks(warc_record.payload)
+    ners = get_continuous_chunks(re.sub('<[^>]*>', '', warc_payload))
 
     canonical_labels_of_ids = dict()
     related_ids_of_ids = dict()
