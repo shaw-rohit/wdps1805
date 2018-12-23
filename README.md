@@ -36,3 +36,4 @@ The program can also be run without ES or Sparql, for that change corresponding 
 
 We also have main_intervals.py which implements the solution with performance improvement based on collocational word properties. It can be used instead of main.py in run.sh or the above commands.
 
+Several settings of the app can be changed in config.py file. For example, сhanging values of `SPARQL_RESULTS_COUNT` and `ES_RESULTS_COUNT` to larger ones will improve the recall.
