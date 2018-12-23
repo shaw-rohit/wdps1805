@@ -17,3 +17,22 @@ Since we parsed the WARC records using a dedicated library, we were able to remo
 
   
 ## RUNNING THE SOLUTION
+
+The final solution is in the prototype_with_ner folder.
+
+For all the paths in the program to be correct, the content of this folder must be located in scratch/wdps/ subfolder in wdps1805 folder on the cluster (this is not done yet, because the cluster has been down for two days by the moment this readme was written).
+
+Everything can be run with `./run.sh` command, which starts Sparql, ElasticSearch and runs main.py.
+
+The resulting data will reside in sample-result file.
+
+If Spark is down, the solution still can be ran on our mock:
+1. Change ``import pyspark`` to ``import pyspark_mock`` in main.py 
+2. Run from the command line:
+```
+python main.py sample.warc sample-result “elastic search address” “sparql address”
+```
+The program can also be run without ES or Sparql, for that change corresponding flags in main.py (lines 27 and 35) to True and run it from the command line (replace corresponding addresses with any string).
+
+We also have main_intervals.py which implements the solution with performance improvement based on collocational word properties. It can be used instead of main.py in run.sh or the above commands.
+
