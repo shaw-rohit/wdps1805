@@ -108,7 +108,7 @@ def stringify_reply(warc_id, word, freebase_id):
 # Run function on spark #
 #########################
 
-sc = SparkContext("yarn", "wdps17XX")
+sc = SparkContext("yarn", "wdps1805")
 
 rdd = sc.newAPIHadoopFile(
     INFILE,
