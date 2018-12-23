@@ -10,10 +10,10 @@ To read the WARC files from HDFS, we used the function newAPIHadoopFile together
 Since we parsed the WARC records using a dedicated library, we were able to remove all the WARC related overhead from the files whilst keeping the HTML tags intact.
 
 ## 3) Extract Named Entities from the text
-
+Named entities are extracted from the payload using NLTK's ne_chunk and the resulting tree is traversed. The output is a list of all the named entities from the payload text.
 
 ## 4) Link entities to Freebase
-
+Entities for each word are extracted with Freebase queries. Each Freebase entity's tuples are then extracted from Freebase RDF with Sparql and the values of returned objects are put into sets. The best entity is then chosen as the one that has highest connectiveness with some other entity from the context.
 
   
 ## RUNNING THE SOLUTION
