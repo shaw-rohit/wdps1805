@@ -7,7 +7,6 @@ class TextExtractor(HTMLParser):
         HTMLParser.__init__(self)
         self._inside_script = False
         self._inside_style = False
-        self._inside_head = False
         self._inside_title = False
         self._words = []
         self._word_regex = re.compile('\w+')
@@ -17,19 +16,16 @@ class TextExtractor(HTMLParser):
             self._inside_script = True
         elif tag == 'style':
             self._inside_style = True
-        elif tag == 'head':
-            self._inside_head = True
         elif tag == 'title':
             self._inside_title = True
 
     def handle_endtag(self, tag):
         self._inside_script = False
         self._inside_style = False
-        self._inside_head = False
         self._inside_title = False
 
     def handle_data(self, data):
-        if self._inside_script or self._inside_style or self._inside_head or self._inside_title:
+        if self._inside_script or self._inside_style or self._inside_title:
             return
         words = self._word_regex.findall(data)
         if 0 < len(words) <= 2:
